@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1416970940 source:c:\users\adriiiiics\documents\proyectograficas\mickeysavetheworldpro\main.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<GL/glut.h>
+	<stdlib.h>
+	"Imageloader.h"
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1407795910 c:\users\adriiiiics\desktop\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1414626383 c:\users\adriiiiics\documents\proyectograficas\mickeysavetheworldpro\imageloader.h
+
